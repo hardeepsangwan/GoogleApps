@@ -1,0 +1,31 @@
+Privacy Policy for Tic Tac Toe
+
+This Privacy Policy governs the manner in which Hardeep Sangwan ("Developer", "I", "Me", or "My") collects, uses, maintains, and discloses information collected from users (each, a "User") of the [Your Tic Tac Toe Game App Name] ("App"). This privacy policy applies to the App and all products and services offered by Hardeep Sangwan.
+
+Information Collection and Use
+
+The App does not collect any personally identifiable information from Users.
+
+Non-Personal Identification Information
+
+The App may collect non-personal identification information about Users whenever they interact with the App. Non-personal identification information may include the type of device and technical information about Users' means of connection to the App, such as the operating system, the Internet service providers utilized, and other similar information.
+
+Advertising
+
+The App may display advertisements served by third-party ad networks, which may collect non-personal identification information about Users for the purpose of providing targeted advertisements. This data collection is governed by the privacy policies of these third-party ad networks.
+
+Changes to this Privacy Policy
+
+[Your Name] has the discretion to update this privacy policy at any time. When I do, I will revise the updated date at the bottom of this page. I encourage Users to frequently check this page for any changes to stay informed about how I am helping to protect the personal information collected. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+Your Acceptance of these Terms
+
+By using this App, you signify your acceptance of this policy. If you do not agree to this policy, please do not use the App. Your continued use of the App following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+Contacting Us
+
+If you have any questions about this Privacy Policy, the practices of this App, or your dealings with this App, please contact [Your Name] at [Your Contact Information].
+
+This document was last updated on [Date].
+
+Please remember to replace placeholders like "Tic Tac Toe", "Hardeep Sangwan", and "hardeepsangwansparkpython@gmail.com" with your actual app name, name, and contact details. Additionally, ensure that you review and comply with any relevant laws or regulations applicable to your jurisdiction.
